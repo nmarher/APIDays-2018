@@ -21,21 +21,19 @@ https://www.slideshare.net/YuichiNakamura10/implementing-security-requirements-f
 
 ## APIs for a Programmable Society
 
-- [The impact of decentralization on APIs and clients](https://rubenverborgh.github.io/Slides-APIdays-2018/#decoupling)
-  Author: Ruben Verborgh, 
-  Abstract: Many of todays’s online business models focus on data harvesting. Whether we open a Facebook account, wear a smartwatch, or go shopping, we generate data that is captured through APIs. This data is then stored in a limited number of centralized places, outside of our control. The Solid ecosystem inverts this relationship by enabling every user to store their own data, independently of central parties. This decoupling of data and applications will have a major impact on the way we build Web APIs and clients. In this talk, I will explain the Solid ecosystem and a query-based design of APIs and clients, covering technologies as diverse as HTTP, Linked Data, and GraphQL.
+### [The impact of decentralization on APIs and clients](https://rubenverborgh.github.io/Slides-APIdays-2018/#decoupling)
+- **Author**: Ruben Verborgh, 
+- **Abstract**: Many of todays’s online business models focus on data harvesting. Whether we open a Facebook account, wear a smartwatch, or go shopping, we generate data that is captured through APIs. This data is then stored in a limited number of centralized places, outside of our control. The Solid ecosystem inverts this relationship by enabling every user to store their own data, independently of central parties. This decoupling of data and applications will have a major impact on the way we build Web APIs and clients. In this talk, I will explain the Solid ecosystem and a query-based design of APIs and clients, covering technologies as diverse as HTTP, Linked Data, and GraphQL.
   
 ## The State of GraphQL, GraphQL on the field
-  
-- [Samplin GraphQL](https://speakerdeck.com/bdougie/samplin-graphql)
-  Author: Brian Douglas, Developer Advocate GitHub
-  Abstract: The move to GraphQL marked a larger shift in GitHub's Platform strategy towards more transparency and more flexibility in our API. Over the past year, GitHub has been iterating on their schema to bring it closer towards feature completeness and strengthening the use for 3rd party integrators. Join me in walking through some of the newer ways developers are leveraging our API primitives and benefiting from GraphQL adoption into their development workflow.
+### [Samplin GraphQL](https://speakerdeck.com/bdougie/samplin-graphql)
+- **Author**:Brian Douglas, Developer Advocate GitHub
+- **Abstract**: The move to GraphQL marked a larger shift in GitHub's Platform strategy towards more transparency and more flexibility in our API. Over the past year, GitHub has been iterating on their schema to bring it closer towards feature completeness and strengthening the use for 3rd party integrators. Join me in walking through some of the newer ways developers are leveraging our API primitives and benefiting from GraphQL adoption into their development workflow.
   
 ## DevOps Culture and Approach (Microservices, Containers)
-
-- [Cyber Security in Continuous Delivery](https://www.slideshare.net/mobile/estelleinomniaparatus/cyber-security-in-continuous-delivery)
-  Author: Estelle Auberix, Practice Manager in Umanis
-  Abstract: In a context of persistent threats and sophisticated attacks, how to manage your Cyber Security with Continuous Delivery. What do you have to watch out for? What are the errors to avoid? What are the possible solutions?
+### [Cyber Security in Continuous Delivery](https://www.slideshare.net/mobile/estelleinomniaparatus/cyber-security-in-continuous-delivery)
+- **Author**:Estelle Auberix, Practice Manager in Umanis
+- **Abstract**: In a context of persistent threats and sophisticated attacks, how to manage your Cyber Security with Continuous Delivery. What do you have to watch out for? What are the errors to avoid? What are the possible solutions?
   
 
   
