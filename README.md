@@ -1,6 +1,6 @@
 # Presentations APIDays 2018
 
-The purpose of this repository is to have the different resources and presentations of the APIDays in Paris that took place on December 11, 12, 2018 (https://www.apidays.co/paris).
+The purpose of this repository is to include the different resources and presentations of the APIDays in Paris that took place on December 11, 12, 2018 (https://www.apidays.co/paris).
 
 If you have any of the presentations and it is not on the list please add a comment to include it or contact me on [LinkedIn](https://www.linkedin.com/in/noelia-mart%C3%ADn-hern%C3%A1ndez-9bb12960/).
 
