@@ -37,7 +37,11 @@ Of course if you want to improve the information or find an error feel free to i
 ### [Implementing security requirements for banking API system using Open Source Software (OSS)](https://www.slideshare.net/YuichiNakamura10/implementing-security-requirements-for-banking-api-system-using-open-source-software-oss?qid=f7c0efa1-6537-44ad-847f-fbf1b5c428a9&v=&b=&from_search=4)
 - **Author**: Yuichi Nakamura, Senior Engineer Hitachi
 - **Abstract**: OAuth is commonly required for open API systems for banking. However, OAuth is only a protocol to convey authorization information. Therefore, authentication and access control around OAuth have to be designed and implemented separately. In the presentation, authentication and access control requirements around OAuth are clarified, and how we achieved these requirements using OSS such as Keycloak and 3scale(apicast) including collaboration with OSS community, will be introduced.
-  
+
+### [Open Banking in Asia Pacific](https://www.slideshare.net/JonScheele1/open-banking-in-asia-pacific-current-state-and-future-opportunities)
+- **Author**: Jon Scheele. Principal, API Learning Lab
+- **Abstract**: Asia Pacific is embracing the programmable economy, and Open Banking is a case in point. But the region is diverse both culturally economically, so adoption is proceeding in different ways. Singapore and Hong Kong, as centres for finance and trade, with thriving startup ecosystems, are streamlining customer journeys through fintech and cross-industry partnerships. Elsewhere in the region, high smartphone adoption rates enable the growing middle class to access financial services such as payments, insurance and investment in innovative ways. In this presentation, Jon Scheele will outline the current state and future outlook for Open Banking in Asia Pacific.
+
 ## The State of GraphQL, GraphQL on the field
 
 ### [Samplin GraphQL](https://speakerdeck.com/bdougie/samplin-graphql)
