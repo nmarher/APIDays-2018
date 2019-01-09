@@ -23,8 +23,6 @@ Of course if you want to improve the information or find an error feel free to i
 ### [Balancing your latency budget: on the future of applications at the edge](https://www.slideshare.net/OriPekelman/api-days-2018-balance-your-latency-budget)
 - **Author**: Ori Pekelman. Co-Founder & CPO, Platform.sh
 
-### [Balancing your latency budget: on the future of applications at the edge](https://www.slideshare.net/OriPekelman/api-days-2018-balance-your-latency-budget)
-- **Author**: Ori Pekelman, Co-Founder & CPO, Platform.sh
 
 ## API Product Management, API Lifecycle Management
 
